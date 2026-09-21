@@ -51,6 +51,10 @@ After troubleshooting, the environment successfully scanned 3 users and 3 groups
 Sanitized screenshots documenting the configuration and troubleshooting process will be added to this repository.
 
 > Security Note: Sensitive information such as passwords, tokens, private URLs, and personally identifiable information will not be included in this repository.
+> ### Active Directory Import Results
+This screenshot demonstrates the Okta and Active Directory integration during the directory import and user assignment process.
+
+![Okta Active Directory Import Results](01-okta-ad-import-results.png)
 
 ## What I Learned
 This lab strengthened my understanding of how an identity provider such as Okta can integrate with an on-premises directory environment. It also provided hands-on experience troubleshooting identity synchronization issues and verifying communication between systems.

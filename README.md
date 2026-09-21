@@ -60,6 +60,12 @@ This screenshot shows the Okta Active Directory Agent in an operational state, c
 
 ![Okta AD Agent Operational Status](02-okta-ad-agent-operational.png)
 
+### Okta Active Directory Profile Mappings
+
+This screenshot shows the Active Directory profile attributes used in the Okta integration, including directory fields used for identity profile management and synchronization.
+
+![Okta Active Directory Profile Mappings](03-okta-ad-profile-mappings.png)
+
 
 ## What I Learned
 This lab strengthened my understanding of how an identity provider such as Okta can integrate with an on-premises directory environment. It also provided hands-on experience troubleshooting identity synchronization issues and verifying communication between systems.

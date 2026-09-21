@@ -55,6 +55,11 @@ Sanitized screenshots documenting the configuration and troubleshooting process 
 This screenshot demonstrates the Okta and Active Directory integration during the directory import and user assignment process.
 
 ![Okta Active Directory Import Results](01-okta-ad-import-results.png)
+### Okta AD Agent Operational Status
+This screenshot shows the Okta Active Directory Agent in an operational state, confirming that the agent connection between Okta and the Active Directory environment is live.
+
+![Okta AD Agent Operational Status](02-okta-ad-agent-operational.png)
+
 
 ## What I Learned
 This lab strengthened my understanding of how an identity provider such as Okta can integrate with an on-premises directory environment. It also provided hands-on experience troubleshooting identity synchronization issues and verifying communication between systems.
